@@ -1,0 +1,2 @@
+# Basic_python_code
+In this we did some exercise related like List, For loop, If and else statement, Class method, Static method, modules, Decorators, Dictionary, Inheritance , Loop method, map- Filter- Zip- Reduce Functions, OPP exercise, Read- Write and Append, Ternary operator, Range and Enumerate, Lambda function, While loop, Code for how to start engine, code to find oldest cate, and do lots of more exercise  
